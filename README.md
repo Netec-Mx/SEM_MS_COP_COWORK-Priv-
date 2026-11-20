@@ -1,5 +1,6 @@
-<img src="images/neteclogo (2).png" alt="logo" width="300"/>
-
+<a href="https://netec.com">
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
+</a>
 
 
 # Microsoft Copilot Cowork: de asistente a ejecución de tareas
@@ -10,28 +11,7 @@
 
 
 
-### [Capitulo 1. Demostraciones](CHAPTER_01/ch01-investment-portfolio/README.md) 
-
-  - **Descripción**: xxx.
-
-  - ⏱️ **Duración estimada**: xx min.
-
-
-
-### [Capitulo 2. Demostraciones](CHAPTER_02/ch02-cashback-schema-design/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️ **Duración estimada**: xx min.
-
-
-
-### [Capitulo 3. Demostraciones](CHAPTER_03/ch03-cashback-dgs-service/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
+### [Capitulo 1. Demostraciones](Demostración/demo.md) 
 
 
 ---
